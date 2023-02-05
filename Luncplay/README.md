@@ -5,7 +5,7 @@ We Created the complete webiste for Luna Classic project.
 - The Website contains many dynamic Graphics supporting the project
 - The Website also contains innovative Road with a car moving in the roadmap section
 
-Below you can see the Display images of the Website
+Below you can see the Graphics of the Website
 
 
 ![2-min](https://user-images.githubusercontent.com/104678268/216815995-37fc2e00-b8d4-47f8-887c-943cd2de7315.gif)
@@ -17,5 +17,4 @@ Below you can see the Display images of the Website
 ![5-min](https://user-images.githubusercontent.com/104678268/216816954-8a0790f5-e35b-41fb-8a41-b7a833bd2680.gif)
 
 
-
-
+![6-min](https://user-images.githubusercontent.com/104678268/216817166-5b64d25e-486f-4eb8-84b7-ae88b8932e7d.gif)
